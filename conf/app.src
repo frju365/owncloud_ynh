@@ -1,0 +1,6 @@
+SOURCE_URL=https://download.owncloud.org/community/owncloud-__VERSION__.tar.bz2
+SOURCE_SUM=a41609807a546a08c8489b40f2d1b36478ee30278eee1f49e6242b37d86b0966
+SOURCE_SUM_PRG=sha256sum
+SOURCE_FORMAT=tar.bz2
+SOURCE_IN_SUBDIR=true
+SOURCE_FILENAME=
